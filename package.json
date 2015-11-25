@@ -2,7 +2,7 @@
   "name": "beerbot-hublin",
   "version": "0.0.0",
   "description": "Beerbot listener for hubl.in",
-  "homepage": "",
+  "homepage": "https://github.com/chamerling/beerbot-hublin",
   "author": {
     "name": "Christophe Hamerling",
     "email": "chamerling@linagora.com",
@@ -19,7 +19,7 @@
     "hublin",
     "webrtc"
   ],
-  "repository": "git@github.com:chamerling/beerbot-giphy.git",
+  "repository": "git@github.com:chamerling/beerbot-hublin.git",
   "devDependencies": {
     "gulp": "^3.6.0",
     "gulp-eslint": "^1.0.0",
@@ -30,7 +30,6 @@
     "gulp-nsp": "^0.4.5"
   },
   "scripts": {
-    "prepublish": "gulp prepublish",
     "test": "gulp"
   },
   "license": "MIT"
