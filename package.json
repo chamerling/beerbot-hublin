@@ -1,6 +1,6 @@
 {
   "name": "beerbot-hublin",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Beerbot listener for hubl.in",
   "homepage": "https://github.com/chamerling/beerbot-hublin",
   "author": {
