@@ -10,6 +10,14 @@ $ npm install --save beerbot-hublin
 
 ## Usage
 
+Once configured in beerbot, just send an hublin command:
+
+```
+!hublin myconf
+```
+
+Will send you back the URL for a new hublin conference in room 'myconf'.
+
 ## License
 
 MIT © [Christophe Hamerling](http://chamerling.github.io)
